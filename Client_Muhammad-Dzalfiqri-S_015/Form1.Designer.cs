@@ -100,7 +100,7 @@
             // hJumlah
             // 
             this.hJumlah.AutoSize = true;
-            this.hJumlah.Location = new System.Drawing.Point(597, 105);
+            this.hJumlah.Location = new System.Drawing.Point(614, 105);
             this.hJumlah.Name = "hJumlah";
             this.hJumlah.Size = new System.Drawing.Size(0, 17);
             this.hJumlah.TabIndex = 6;
@@ -108,7 +108,7 @@
             // hKurang
             // 
             this.hKurang.AutoSize = true;
-            this.hKurang.Location = new System.Drawing.Point(597, 143);
+            this.hKurang.Location = new System.Drawing.Point(614, 143);
             this.hKurang.Name = "hKurang";
             this.hKurang.Size = new System.Drawing.Size(0, 17);
             this.hKurang.TabIndex = 7;
@@ -116,7 +116,7 @@
             // hKali
             // 
             this.hKali.AutoSize = true;
-            this.hKali.Location = new System.Drawing.Point(597, 179);
+            this.hKali.Location = new System.Drawing.Point(614, 179);
             this.hKali.Name = "hKali";
             this.hKali.Size = new System.Drawing.Size(0, 17);
             this.hKali.TabIndex = 8;
@@ -124,7 +124,7 @@
             // hBagi
             // 
             this.hBagi.AutoSize = true;
-            this.hBagi.Location = new System.Drawing.Point(597, 221);
+            this.hBagi.Location = new System.Drawing.Point(614, 221);
             this.hBagi.Name = "hBagi";
             this.hBagi.Size = new System.Drawing.Size(0, 17);
             this.hBagi.TabIndex = 9;

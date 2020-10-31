@@ -24,11 +24,11 @@ namespace Client_Muhammad_Dzalfiqri_S_015
             ServiceReference1.MatematikaClient obj = new
             ServiceReference1.MatematikaClient();
 
-            double c = double.Parse(Angka1.Text);
-            double d = double.Parse(Angka2.Text);
+            int c = int.Parse(Angka1.Text);
+            int d = int.Parse(Angka2.Text);
 
             double hasilTambah = obj.Tambah(c, d);
-            hBagi.Text = hasilTambah.ToString();
+            hJumlah.Text = hasilTambah.ToString();
 
             double hasilKurang = obj.Kurang(c, d);
             hKurang.Text = hasilKurang.ToString();
